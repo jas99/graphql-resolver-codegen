@@ -1,5 +1,5 @@
 {
-  "name": "graphql-resolver-codegen",
+  "name": "@jas99/graphql-resolver-codegen",
   "version": "0.2.4",
   "description": "Generate resolver types based on a GraphQL Schema",
   "main": "dist/index.js",
